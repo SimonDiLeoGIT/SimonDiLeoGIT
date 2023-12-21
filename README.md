@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm web frontend developer learning to be a fullstak developer. <b>
+I'm web frontend developer learning to be a fullstak developer. </b>
 Now I work with
 
 <div>
