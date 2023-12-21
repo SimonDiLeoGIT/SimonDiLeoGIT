@@ -2,8 +2,8 @@
 
 ## About Me:
 
-I'm web frontend developer.
-I work with
+I'm web frontend developer learning to be a fullstak developer. <b>
+Now I work with
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
@@ -15,6 +15,8 @@ I work with
 ### 🔭 I'm working on
 
 - Projects for my portfolio
+- Looking for a frontend developer job
+- 
 
 ### 📫 How to reach me: 
 
