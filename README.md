@@ -19,7 +19,7 @@ I work with
 ### 📫 How to reach me: 
 
 <div>
-    <a href="https://www.linkedin.com/in/sim%C3%B3n-di-leo-8782a4256/">
+    <a href="https://www.linkedin.com/in/simondileodev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn           Badge"/>
     </a>
 </div>
