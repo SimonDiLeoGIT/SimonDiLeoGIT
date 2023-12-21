@@ -6,7 +6,7 @@ I work with
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=white" alt="Javascript"/>
 </div>
 
 <!--
