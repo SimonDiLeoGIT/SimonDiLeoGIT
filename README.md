@@ -30,8 +30,8 @@ Now I work with
     </a>
 </div>
 
-### 👓 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SimonDiLeoGIT)
+### 📐 My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonDiLeoGIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
