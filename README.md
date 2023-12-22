@@ -2,9 +2,9 @@
 
 ## About Me:
 
-I'm web frontend developer learning to be a fullstak developer
+I'm a web frontend developer currently learning to become a full-stack developer
 
-Now I work with
+I work with
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
@@ -15,9 +15,8 @@ Now I work with
 
 ### 🔭 I'm working on
 
-- Projects for my portfolio
-- Looking for a frontend developer job
-- 
+- Projects to build up my portfolio
+- Actively seeking opportunities for a frontend developer position
 
 ### 📫 How to reach me: 
 
@@ -31,6 +30,8 @@ Now I work with
 </div>
 
 ### 📐 My Stats :
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SimonDiLeoGIT&count_private=true&theme=tokyonight&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonDiLeoGIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
