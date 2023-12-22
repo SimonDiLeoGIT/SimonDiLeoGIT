@@ -31,7 +31,7 @@ I work with
 
 ### 📐 My Stats :
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SimonDiLeoGIT&count_private=true&theme=tokyonight&showicons=true)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SimonDiLeoGIT&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonDiLeoGIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
