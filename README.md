@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/SimonDiLeoGIT"> Simón </a> 👋
 
-## About Me:
+## 🙋‍♂️ About Me:
 
 I'm a web frontend developer currently learning to become a full-stack developer
 
@@ -13,10 +13,14 @@ I work with
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=00ADD3"  title="CSS3" alt="CSS" />&nbsp;
 </div>
 
-### 🔭 I'm working on
+
+
+### ✍️ I'm working on
 
 - Projects to build up my portfolio
 - Actively seeking opportunities for a frontend developer position
+
+
 
 ### 📫 How to reach me: 
 
@@ -28,6 +32,8 @@ I work with
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </div>
+
+
 
 ### 📐 My Stats :
 
