@@ -30,6 +30,10 @@ Now I work with
     </a>
 </div>
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=SimonDiLeoGIT
+
 <!--
 **SimonDiLeoGIT/SimonDiLeoGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
