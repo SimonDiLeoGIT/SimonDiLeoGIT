@@ -11,6 +11,7 @@ I work with
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=FDAE15" title="HTML5" alt="HTML"/>&nbsp;
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=00ADD3"  title="CSS3" alt="CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind&logoColor=00ADD3"  title="CSS3" alt="TailwindCSS" />&nbsp;
 </div>
 
 
