@@ -12,18 +12,12 @@ I'm a web frontend developer currently learning to become a full-stack developer
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=00ADD3"  title="CSS3" alt="CSS" />&nbsp;
 </div>
 
-### 🔧 Frameworks
+### 🔧 Frameworks:
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=TailwindCSS&logoColor=00ADD3"  title="CSS3" alt="TailwindCSS" />&nbsp;  
 </div>
-
-
-### ✍️ I'm working on
-
-- Projects to build up my portfolio
-- Actively seeking opportunities for a frontend developer position
 
 
 ### 📫 How to reach me: 
