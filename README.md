@@ -35,7 +35,7 @@ I'm a web frontend developer currently learning to become a full-stack developer
 
 ### 📐 My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonDiLeoGIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonDiLeoGIT)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
