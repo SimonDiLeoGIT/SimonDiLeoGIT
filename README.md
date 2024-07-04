@@ -2,7 +2,9 @@
 
 ## 🙋‍♂️ About Me:
 
-I'm a web frontend developer currently learning to become a full-stack developer
+I'm fullstack developer
+23 years.
+5th year in Bachelor of Information Systems
 
 ### 🧰 Tools:
 
