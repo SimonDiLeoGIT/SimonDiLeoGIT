@@ -2,9 +2,7 @@
 
 ## 🙋‍♂️ About Me:
 
-I'm fullstack developer
-23 years.
-5th year in Bachelor of Information Systems
+I’m 23 years old Fullstack Developer with over three years of experience as web developer.
 
 ### 🧰 Frontend:
 
