@@ -2,8 +2,7 @@
 
 ## 🙋‍♂️ About Me:
 
-I’m 23 years old. Passionate about creating efficient and impactful solutions with 3 years of experience in designing interactive user interfaces using React.js, 
-TypeScript, HTML, and CSS, as well as developing scalable and maintainable backends with Python, Java, and MySQL.
+I’m 23 years old. Passionate about creating efficient and impactful solutions with 3 years of experience in designing interactive user interfaces as well as developing scalable and maintainable backends.
 
 ### 🧰 Frontend:
 
