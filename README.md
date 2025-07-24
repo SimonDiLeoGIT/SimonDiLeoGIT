@@ -2,10 +2,10 @@
 
 ## 🙋‍♂️ About Me:
 
-I’m 23 years old. 
-Passionate about creating efficient and impactful solutions with more than 2 years of experience in designing interactive user interfaces as well as developing scalable and maintainable backends.
+I’m 24 years old. 
+Passionate about creating efficient and impactful solutions with more than 4 years of experience in designing interactive user interfaces as well as developing scalable and maintainable backends.
 Advanced English level (B2).
-5th year student of the Bachelor’s Degree in Information Systems in the Universidad Nacional de Luján.
+5th year student of the Bachelor’s Degree in Information Systems in the National University of Luján.
 
 ### 🧰 Frontend:
 
