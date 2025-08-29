@@ -3,9 +3,9 @@
 ## 🙋‍♂️ About Me:
 
 I’m 24 years old. 
-Passionate about creating efficient and impactful solutions with more than 4 years of experience in designing interactive user interfaces as well as developing scalable and maintainable backends.
+Passionate about creating efficient and impactfulfullstack solutions, with more than 3 years of experience designing interactive user interfaces and developing scalable, maintainable backends.
 Advanced English level (B2).
-5th year student of the Bachelor’s Degree in Information Systems in the National University of Luján.
+Graduated as a Programmer Analyst from the National University of Luján.
 
 ### 🔧 Backend:
 
